@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="chat">CHATS</string>
+    <string name="estado">ESTADOS</string>
+    <string name="call">LLAMADAS</string>
+    <string name="Juan">Juan Perez</string>
+</resources>
